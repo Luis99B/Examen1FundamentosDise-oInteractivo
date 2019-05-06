@@ -1,2 +1,2 @@
-# Examen1FundamentosDise-oInteractivo
-Examen Primer Parcial
+# Examen1FundamentosDisenoInteractivo
+Examen Primer Parcial Diseño Interactivo
